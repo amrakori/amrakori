@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrakori
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity
+- 👀 I build landing pages and generate art
+- 🌱 I’m currently learning p5js
 
 <!---
 amrakori/amrakori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
